@@ -1,0 +1,14 @@
+.jumbotron {
+    background: url('/static/img 2/musik-aldo.jpg'), rgba(42, 38, 61, 0.87);    
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    background-position: top;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 550px;
+}
+
+.text1 {
+    padding-top: 300px;
+    font-family:Arial, Helvetica, sans-serif;
+}

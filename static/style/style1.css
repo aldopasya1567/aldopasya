@@ -1,0 +1,26 @@
+.jumbotron {
+    background: url('/static/img/aldo.png'), rgba(42, 38, 61, 0.623);
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    background-position: bottom;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 550px;
+    filter: blur(12);
+}
+
+.text1 {
+    padding-top: 150px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#about {
+    padding-top: 30px;
+}
+
+#caption {
+    margin-bottom: 50px;
+}
+
+
+
